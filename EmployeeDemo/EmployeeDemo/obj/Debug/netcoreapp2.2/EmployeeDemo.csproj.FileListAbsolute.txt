@@ -1,0 +1,11 @@
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.2\EmployeeDemo.deps.json
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.2\EmployeeDemo.runtimeconfig.json
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.2\EmployeeDemo.runtimeconfig.dev.json
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.2\EmployeeDemo.dll
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.2\EmployeeDemo.pdb
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.2\EmployeeDemo.csprojAssemblyReference.cache
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.2\EmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.2\EmployeeDemo.AssemblyInfoInputs.cache
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.2\EmployeeDemo.AssemblyInfo.cs
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.2\EmployeeDemo.dll
+C:\Users\jowendean\Desktop\Udemy\C#\Section 8 - Inheritance and more OOP\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.2\EmployeeDemo.pdb
