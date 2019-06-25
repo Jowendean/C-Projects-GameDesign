@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].Zoo
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Location] NVARCHAR(50) NOT NULL
+)
